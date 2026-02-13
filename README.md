@@ -2,8 +2,6 @@
 
 **A structured prompt engineering framework for conducting comprehensive crypto research with AI assistance.**
 
-**Author:** [Kudō](https://x.com/kudodefi)
-
 ---
 
 ## What is CRIF?
