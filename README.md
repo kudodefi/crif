@@ -1,9 +1,5 @@
 # CRIF - Crypto Research Interactive Framework
 
-**A structured prompt engineering framework for conducting comprehensive crypto research with AI assistance.**
-
----
-
 ## What is CRIF?
 
 **CRIF (Crypto Research Interactive Framework)** is a specialized framework designed for crypto market research that emphasizes **human-AI interaction** for optimal control and output quality.
